@@ -1,0 +1,27 @@
+{
+  "name": "hgourvest-glpk",
+  "version": "0.1.0",
+  "description": "Packaging of hgourvest's glpk-js",
+  "main": "glpk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bholzman/hgourvest-glpk.git"
+  },
+  "keywords": [
+    "glpk",
+    "lp",
+    "simplex"
+  ],
+  "author": "Benjamin Holzman <bholzman@gmail.com>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/bholzman/hgourvest-glpk/issues"
+  },
+  "homepage": "https://github.com/bholzman/hgourvest-glpk#readme",
+  "engines": {
+    "node": ">=9.10.1"
+  }
+}
